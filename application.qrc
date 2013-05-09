@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>icons/object.png</file>
+	 <file>icons/object_off.png</file>
+	 <file>icons/node.png</file>
+	 <file>icons/node_red.png</file>
+	 <file>icons/mesh.png</file>
+	 <file>icons/bone.png</file>
+	 <file>icons/bone_red.png</file>
+ </qresource>
+ </RCC>
